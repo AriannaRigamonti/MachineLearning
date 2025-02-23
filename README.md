@@ -47,10 +47,10 @@ The project evaluates clustering, classification, and regression methods based o
 ## Usage
 To reproduce the results:
 1. Install dependencies:
-   ```bash
-   pip install numpy pandas scikit-learn matplotlib seaborn
-   ```
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn
+```
 2.	Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook MachineLearning_hw.ipynb
-   ```
+```bash
+jupyter notebook MachineLearning_hw.ipynb
+```
